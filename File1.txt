@@ -1,5 +1,6 @@
 Sapient Pre-Joining Assignment
 
-1.Git Assignment
+1.Git Assignment -->Setup a github repository
 2.Codewar Assignment
 3.Jenkins Assignment
+4.Maven Assignments
