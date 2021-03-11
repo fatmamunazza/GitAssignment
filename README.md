@@ -1,2 +1,2 @@
 # GitAssignment
-Assignment on Jenkins
+Assignment on Git
